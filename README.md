@@ -4,7 +4,7 @@
 ![PyTorch LTS](https://img.shields.io/badge/PyTorch-lts%20-%23EE4C2C.svg?style=plastic)
 ![cudatoolkit 11.1](https://img.shields.io/badge/cudatoolkit-11.1-green.svg?style=plastic)
 
-[informer_ChineseNotes](https://github.com/chenruhai/informer_ChineseNotes) has added Chinese annotations and some visual additions to the [informer2020](https://github.com/zhouhaoyi/Informer2020) project.
+[informer_ChineseNotes](https://github.com/TonyEinstein/informer_ChineseNotes) has added Chinese annotations and some visual additions to the [informer2020](https://github.com/zhouhaoyi/Informer2020) project.
 
 
 ## 使用场景
