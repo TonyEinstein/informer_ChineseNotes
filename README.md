@@ -96,7 +96,7 @@ If you run into a problem like `RuntimeError: The size of tensor a (98) must mat
 数据是网上找来的，已做脱敏处理，如有冒犯到您的请联系e-mail或者从[Tony's blog](https://blog.csdn.net/qq_42658739?type=blog)中私聊我侵删。
 
 ## To contact me
-* e-mail：ruhai.chen@foxmail.com
+* e-mail：crh19981229@gmail.com
 
 
 
