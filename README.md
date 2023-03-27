@@ -97,7 +97,7 @@ If you run into a problem like `RuntimeError: The size of tensor a (98) must mat
 
 ## To contact me
 * e-mail 1：crh19981229@gmail.com
-* e-mail 2：ruhai.chen@foxmail.com
+* e-mail 2：ruhai.chen@foxmail.com 【优先建议】
 
 ## 关于报错 main_**运行后报错KeyError: "['true'] not in index" 的解决方法
 
