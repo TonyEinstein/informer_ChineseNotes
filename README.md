@@ -99,6 +99,11 @@ If you run into a problem like `RuntimeError: The size of tensor a (98) must mat
 * e-mail 1：crh19981229@gmail.com
 * e-mail 2：ruhai.chen@foxmail.com
 
+## 关于报错 main_**运行后报错KeyError: "['true'] not in index" 的解决方法
+
+详细看这里：
+https://github.com/TonyEinstein/informer_ChineseNotes/issues/1
+https://github.com/TonyEinstein/informer_ChineseNotes/issues/4
 
 
 
