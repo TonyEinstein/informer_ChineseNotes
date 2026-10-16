@@ -1,6 +1,5 @@
 # !/usr/bin python3                                 
 # encoding    : utf-8 -*-                            
-# @author     :   陈汝海                               
 # @software   : PyCharm      
 # @file       :   initialize_random_seed.py
 # @Time       :   2021/11/12 15:18

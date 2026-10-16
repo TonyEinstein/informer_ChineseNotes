@@ -1,6 +1,5 @@
 # !/usr/bin python3
 # encoding    : utf-8 -*-
-# @author     :   陈汝海
 # @software   : PyCharm
 # @file       :   visualization.py
 # @Time       :   2021/10/14 10:50

@@ -1,6 +1,5 @@
 # !/usr/bin python3                                 
 # encoding    : utf-8 -*-                            
-# @author     :   陈汝海                               
 # @software   : PyCharm      
 # @file       :   multi_lag_processor.py
 # @Time       :   2021/12/3 8:39
