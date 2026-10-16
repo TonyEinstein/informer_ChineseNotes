@@ -6,7 +6,6 @@
 
 [informer_ChineseNotes](https://github.com/TonyEinstein/informer_ChineseNotes) has added Chinese annotations and some visual additions to the [informer2020](https://github.com/zhouhaoyi/Informer2020) project.
 
-
 ## 使用场景
 * 时间序列预测
 * 股票预测
@@ -70,12 +69,9 @@ pip install pandas
 
 ```
 
-
-
 ### Import virtual environment in PyCharm:
 When selecting the interpreter, do not create a new virtual environment and use the virtual environment you already created:
 ![image](https://user-images.githubusercontent.com/47185449/176341835-506057a2-479b-414b-a88b-45ff0f1650db.png)
-
 
 ## FAQ
 If you run into a problem like `RuntimeError: The size of tensor a (98) must match the size of tensor b (96) at non-singleton dimension 1`, you can check torch version or modify code about `Conv1d` of `TokenEmbedding` in `models/embed.py` as the way of circular padding mode in Conv1d changed in different torch versions.
@@ -83,21 +79,15 @@ If you run into a problem like `RuntimeError: The size of tensor a (98) must mat
 ## Interesting and useful tool recommendations
 * [streamlit](https://awesome-streamlit.org/)
 
-
 ## Thank you
 * Thanks to [@zhouhaoyi](https://github.com/zhouhaoyi) open source algorithm paper and code repository.
-
 
 ## reference
 * Original repository: [informer2020](https://github.com/zhouhaoyi/Informer2020)
 * Zhouhaoyi paper: [Informer：Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (AAAI'21 Best Paper)](https://arxiv.org/abs/2012.07436)
 
 ## Tips
-数据是网上找来的，已做脱敏处理，如有冒犯到您的请联系e-mail或者从[Tony's blog](https://blog.csdn.net/qq_42658739?type=blog)中私聊我侵删。
-
-## To contact me
-* e-mail 1：crh19981229@gmail.com
-* e-mail 2：ruhai.chen@foxmail.com 【优先建议】
+数据是网上找来的，已做脱敏处理，如有冒犯到您请在 [Issues](https://github.com/TonyEinstein/informer_ChineseNotes/issues) 联系删除。
 
 ## 关于报错 main_**运行后报错KeyError: "['true'] not in index" 的解决方法
 
@@ -105,5 +95,6 @@ If you run into a problem like `RuntimeError: The size of tensor a (98) must mat
 https://github.com/TonyEinstein/informer_ChineseNotes/issues/1
 https://github.com/TonyEinstein/informer_ChineseNotes/issues/4
 
+## License
 
-
+[MIT](./LICENSE) © TonyEinstein

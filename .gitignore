@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java/Maven
+target/
+*.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

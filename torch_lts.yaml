@@ -89,4 +89,3 @@ dependencies:
     - xlrd==2.0.1
     - yarl==1.7.2
     - zipp==3.8.0
-prefix: C:\Users\chenruhai\anaconda3\envs\torch_lts
